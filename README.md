@@ -33,9 +33,8 @@ Dr. Hayne's (</span><a href="HAYNE_CV.pdf" target="_blank"><span class="auto-sty
 			Information and Technology Management, Management Communication Quarterly</span><span class="auto-style1"> among others. He
 			has co-edited the book </span><span class="auto-style3">Real-Time Group Drawing</span><span class="auto-style1"> (1995, McGraw-Hill).&nbsp; 
             <br><br></span> 
-            <a href="hayne_cv.pdf" target="_blank"><span class="auto-style2">His research grants</span></a><span class="auto-style1"> now total 
-			</span><span class="auto-style2">more than $8+million</span><span class="auto-style1"> (Department of Homeland Security, Office of Naval Research, National Science Foundation, Natural Sciences and 
-            Engineering Research Council, etc.)&nbsp;&nbsp; His current grant is 
+            His research grants totalled more than $8+million<span class="auto-style1"> (Department of Homeland Security, Office of Naval Research, National Science Foundation, Natural Sciences and 
+            Engineering Research Council, etc.)&nbsp;&nbsp; His most recent grant was 
 			on detecting and mitigating distributed denial of service attacks, 
 			with Dr. Papadopoulos, and Dr. Wang. He received an IBM Faculty Fellowship in 2006, 
 			the College of Business Research Award in 2006, and was the First National 
