@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Dr. Stephen C. Hayne retired from Colorado State University, Computer Information Systems department at the end of 2021.
 
-Dr. Hayne's (</span><a href="hayne_cv.pdf" target="_blank"><span class="auto-style2">Ph.D.</span></a><span class="auto-style1"> in Management Information Systems 
+Dr. Hayne's (</span><a href="HAYNE_CV.pdf" target="_blank"><span class="auto-style2">Ph.D.</span></a><span class="auto-style1"> in Management Information Systems 
             from </span> <a href="http://www.arizona.edu/">
 			<span class="auto-style2">University of Arizona</span></a><span class="auto-style1">)
 			research interests lie mainly in Big Data Analytics, Collaborative Technologies, 
